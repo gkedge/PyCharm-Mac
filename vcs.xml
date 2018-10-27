@@ -14,6 +14,10 @@
           <option name="url" value="http://gkedge@gitlab.card.core/gkedge/adb_command.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.card.core/interns/intern_projects.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
