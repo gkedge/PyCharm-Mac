@@ -2,10 +2,10 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="exclude" type="Git exclude file" />
       <removed_mapping pattern="exclude" type="GitExclude file" />
       <mapping pattern="00f8a6b5dca6c9a58b07f6cc0f3fcda8" type="PLAIN_TEXT" />
       <mapping pattern="667ed29c3a5e8972efb7cf02d010769d" type="PLAIN_TEXT" />
+      <removed_mapping pattern="exclude" type="GitExclude file" />
     </extensionMap>
   </component>
 </application>
