@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="00f8a6b5dca6c9a58b07f6cc0f3fcda8" type="PLAIN_TEXT" />
       <mapping pattern="667ed29c3a5e8972efb7cf02d010769d" type="PLAIN_TEXT" />
+      <mapping ext="haproxy" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
